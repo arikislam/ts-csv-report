@@ -1,0 +1,9 @@
+public/*.html
+.idea
+.idea/*
+*.iml
+.parcel-cache
+dist
+node_modules
+```
+build
